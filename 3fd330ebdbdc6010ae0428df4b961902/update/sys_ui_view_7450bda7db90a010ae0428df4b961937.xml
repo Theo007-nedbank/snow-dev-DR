@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>new</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 18:45:57</sys_created_on>
+        <sys_id>7450bda7db90a010ae0428df4b961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_ui_view_7450bda7db90a010ae0428df4b961937</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 18:45:57</sys_updated_on>
+        <title>new</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

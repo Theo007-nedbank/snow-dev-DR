@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DR Schedule" max_length="40" name="x_552094_dros_dr_schedule" sizeclass="0" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="DR Date" max_length="40" name="dr_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="0" label="DR Status" max_length="40" name="dr_status" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" value="2"/>
+                <element inactive_on_update="false" label="Closed" value="3"/>
+                <element inactive_on_update="false" label="Inactive" value="1"/>
+                <element inactive_on_update="false" label="Planning" value="0"/>
+            </choice>
+        </element>
+        <element label="Duration" max_length="40" name="duration" read_only="true" type="glide_duration"/>
+        <element label="Ended" max_length="40" name="ended" read_only="true" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Site" max_length="40" name="site" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="105 West" value="105_west"/>
+                <element inactive_on_update="false" label="Extended" value="extended"/>
+                <element inactive_on_update="false" label="Namibia" value="namibia"/>
+            </choice>
+        </element>
+        <element label="Started" max_length="40" name="started" read_only="true" type="glide_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Main Tasks" language="en" table="x_552094_dros_main_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Main Tasks</label>
+            <language>en</language>
+            <name>x_552094_dros_main_tasks</name>
+            <plural>Main Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 14:43:28</sys_created_on>
+            <sys_id>74d878efdbdc6010ae0428df4b9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Main Tasks</sys_name>
+            <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+            <sys_update_name>sys_documentation_x_552094_dros_main_tasks__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 14:43:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

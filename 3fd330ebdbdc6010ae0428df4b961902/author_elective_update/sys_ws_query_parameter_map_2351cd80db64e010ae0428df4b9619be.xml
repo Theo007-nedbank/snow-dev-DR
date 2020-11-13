@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map">
+    <sys_ws_query_parameter_map action="DELETE">
+        <sys_class_name>sys_ws_query_parameter_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-13 04:38:04</sys_created_on>
+        <sys_id>2351cd80db64e010ae0428df4b9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>240f12ffdb9ca010ae0428df4b961944</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_map_2351cd80db64e010ae0428df4b9619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-13 04:38:04</sys_updated_on>
+        <web_service_operation display_value="Import">4a502233dbdca010ae0428df4b96199b</web_service_operation>
+        <web_service_query_parameter display_value="reference">240f12ffdb9ca010ae0428df4b961944</web_service_query_parameter>
+    </sys_ws_query_parameter_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</application>
+        <file_path/>
+        <instance_id>bcb85ac3db201704ff27d5b0cf9619d9</instance_id>
+        <instance_name>dev51550</instance_name>
+        <name>sys_ws_query_parameter_map_2351cd80db64e010ae0428df4b9619be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map"><sys_ws_query_parameter_map action="INSERT_OR_UPDATE"><sys_class_name>sys_ws_query_parameter_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-13 04:38:04</sys_created_on><sys_id>2351cd80db64e010ae0428df4b9619be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>240f12ffdb9ca010ae0428df4b961944</sys_name><sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package><sys_policy/><sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope><sys_update_name>sys_ws_query_parameter_map_2351cd80db64e010ae0428df4b9619be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-13 04:38:04</sys_updated_on><web_service_operation display_value="Import">4a502233dbdca010ae0428df4b96199b</web_service_operation><web_service_query_parameter display_value="reference">240f12ffdb9ca010ae0428df4b961944</web_service_query_parameter></sys_ws_query_parameter_map></record_update>]]></payload>
+        <payload_hash>90808141</payload_hash>
+        <record_name>240f12ffdb9ca010ae0428df4b961944</record_name>
+        <reverted_from/>
+        <source>ffd3b42fdbdc6010ae0428df4b9619da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-13 04:38:04</sys_created_on>
+        <sys_id>d47101c0db64e010ae0428df4b9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175bfe56a4b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-13 04:38:04</sys_updated_on>
+        <type>Scripted REST Query Parameter Associatio</type>
+        <update_guid>107101c05e64e0104bca4a2ced7e8daf</update_guid>
+        <update_guid_history>107101c05e64e0104bca4a2ced7e8daf:90808141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-13 04:40:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_query_parameter_map">sys_ws_query_parameter_map</sys_db_object>
+        <sys_id>58c36ad3fbfc42209becdcbc0dfd2400</sys_id>
+        <sys_metadata>2351cd80db64e010ae0428df4b9619be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>240f12ffdb9ca010ae0428df4b961944</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_scope_delete display_value="">030f6e39d74b471980db4f8980c9c8e1</sys_scope_delete>
+        <sys_update_name>sys_ws_query_parameter_map_2351cd80db64e010ae0428df4b9619be</sys_update_name>
+        <sys_update_version display_value="sys_ws_query_parameter_map_2351cd80db64e010ae0428df4b9619be">d47101c0db64e010ae0428df4b9619af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-13 04:40:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

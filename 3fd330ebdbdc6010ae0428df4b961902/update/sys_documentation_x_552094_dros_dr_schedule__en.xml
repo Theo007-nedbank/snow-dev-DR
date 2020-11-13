@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="DR Schedule" language="en" table="x_552094_dros_dr_schedule">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>DR Schedule</label>
+            <language>en</language>
+            <name>x_552094_dros_dr_schedule</name>
+            <plural>DR Schedules</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 14:25:10</sys_created_on>
+            <sys_id>78a4bc2fdbdc6010ae0428df4b9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DR Schedule</sys_name>
+            <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+            <sys_update_name>sys_documentation_x_552094_dros_dr_schedule__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 14:25:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

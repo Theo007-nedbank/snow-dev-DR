@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Import" max_length="40" name="x_552094_dros_import" sizeclass="21" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_application" label="Application" max_length="40" name="u_application" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_environment" label="Environment" max_length="40" name="u_environment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_manager" label="Manager" max_length="40" name="u_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_site" label="Site" max_length="40" name="u_site" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_stage" label="Stage" max_length="40" name="u_stage" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_status" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_support_team" label="Support Team" max_length="40" name="u_support_team" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_uid" label="UID" max_length="40" name="u_uid" type="string"/>
+    </element>
+</database>
