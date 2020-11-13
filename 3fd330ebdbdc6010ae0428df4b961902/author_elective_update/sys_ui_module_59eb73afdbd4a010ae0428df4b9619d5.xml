@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="DROS">d9eb73afdbd4a010ae0428df4b9619d2</application>
+        <filter/>
+        <name>Imprt Data</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_552094_dros.imprt_data_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 04:55:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>59eb73afdbd4a010ae0428df4b9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imprt Data</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_ui_module_59eb73afdbd4a010ae0428df4b9619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 04:55:45</sys_updated_on>
+        <table>x_552094_dros_imprt_data</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</application>
+        <file_path/>
+        <instance_id>bcb85ac3db201704ff27d5b0cf9619d9</instance_id>
+        <instance_name>dev51550</instance_name>
+        <name>sys_ui_module_59eb73afdbd4a010ae0428df4b9619d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DROS">d9eb73afdbd4a010ae0428df4b9619d2</application><filter/><name>Imprt Data</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_552094_dros.imprt_data_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-12 04:55:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>59eb73afdbd4a010ae0428df4b9619d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imprt Data</sys_name><sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package><sys_policy/><sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope><sys_update_name>sys_ui_module_59eb73afdbd4a010ae0428df4b9619d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-12 04:55:45</sys_updated_on><table>x_552094_dros_imprt_data</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>173319195</payload_hash>
+        <record_name>Imprt Data</record_name>
+        <reverted_from/>
+        <source>ffd3b42fdbdc6010ae0428df4b9619da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 04:55:45</sys_created_on>
+        <sys_id>edeb73afdbd4a010ae0428df4b9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175bacf3e370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 04:55:45</sys_updated_on>
+        <type>Module</type>
+        <update_guid>29eb73af1ad4a0101cd7f0ebee6769d7</update_guid>
+        <update_guid_history>29eb73af1ad4a0101cd7f0ebee6769d7:173319195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 09:26:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>9f88de8939294d749132f45bb1d82c90</sys_id>
+        <sys_metadata>59eb73afdbd4a010ae0428df4b9619d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imprt Data</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_scope_delete display_value="">030f6e39d74b471980db4f8980c9c8e1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_59eb73afdbd4a010ae0428df4b9619d5</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_59eb73afdbd4a010ae0428df4b9619d5">edeb73afdbd4a010ae0428df4b9619d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 09:26:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

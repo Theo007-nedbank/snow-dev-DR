@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="site" table="x_552094_dros_main_tasks" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>site</element>
+            <name>x_552094_dros_main_tasks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 15:46:52</sys_created_on>
+            <sys_id>a55741ebdb10a010ae0428df4b961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>site</sys_name>
+            <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+            <sys_update_name>sys_choice_x_552094_dros_main_tasks_site</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 15:46:52</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>105 West</label>
+            <language>en</language>
+            <name>x_552094_dros_main_tasks</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 15:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1fc649abdb10a010ae0428df4b96198c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 15:47:00</sys_updated_on>
+            <value>105_west</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Extended</label>
+            <language>en</language>
+            <name>x_552094_dros_main_tasks</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 15:47:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5578dabdb10a010ae0428df4b9619f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 15:47:11</sys_updated_on>
+            <value>extended</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>site</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Namibia</label>
+            <language>en</language>
+            <name>x_552094_dros_main_tasks</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 15:47:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74678dabdb10a010ae0428df4b9619f3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 15:47:21</sys_updated_on>
+            <value>namibia</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

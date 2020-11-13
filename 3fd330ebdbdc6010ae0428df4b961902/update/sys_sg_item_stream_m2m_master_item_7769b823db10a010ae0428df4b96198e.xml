@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="DR Schedule Item Stream">fb69b823db10a010ae0428df4b96198a</item_stream>
+        <master_item display_value="DR Schedule master_item">3369b823db10a010ae0428df4b96198d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 14:46:08</sys_created_on>
+        <sys_id>7769b823db10a010ae0428df4b96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_7769b823db10a010ae0428df4b96198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 14:46:08</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

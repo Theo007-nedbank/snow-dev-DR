@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="DROS DR Schedule">f769b823db10a010ae0428df4b96195c</data_item>
+        <dependency_fields>dr_date,dr_status,duration,ended,number,started</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"BackgroundColor":"#f1f1f1","CornerRadius":2,"CellId":"dr_date","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","TextColor":"#293e40","Font":{"Weight":"semibold","Size":13},"Text":"","Width":100,"Height":21,"Type":"Text"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"dr_status","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"Text":"","Type":"Text"}],"Distribution":"Auto","Alignment":"Right","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Equal","Alignment":"Stretch","Orientation":"Horizontal","Type":"ViewGroup"},{"CellId":"duration","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","TextColor":"#293e40","Font":{"Weight":"regular","Size":18},"Text":"","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","TextColor":"#7d8a8c","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"Text":"${ended}","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"number","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"ended","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"Text":"","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","TextColor":"#7d8a8c","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"Text":"${started}","Margin":{"Right":8},"Type":"Text"},{"CellId":"started","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"Text":"","Type":"Text"}],"Distribution":"Auto","Alignment":"Center","Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Distribution":"Auto","Alignment":"Left","Orientation":"Vertical","Type":"ViewGroup"}],"Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Alignment":"Stretch","Orientation":"Vertical","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>DR Schedule Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 14:46:08</sys_created_on>
+        <sys_id>bb69b823db10a010ae0428df4b96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DR Schedule Detail Screen Item View</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_sg_item_view_bb69b823db10a010ae0428df4b96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 14:46:08</sys_updated_on>
+        <table>x_552094_dros_dr_schedule</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb69b823db10a010ae0428df4b96195e"/>
+</record_update>

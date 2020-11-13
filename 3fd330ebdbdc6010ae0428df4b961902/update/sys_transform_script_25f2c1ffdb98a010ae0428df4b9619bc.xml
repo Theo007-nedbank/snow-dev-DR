@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Import">7d1eb4fbdb98a010ae0428df4b961994</map>
+        <order>100</order>
+        <script><![CDATA[var QP = request.queryParams;
+
+if(!(source.u_manager)){
+	var str = "Starting: ";
+
+	var grp = new GlideRecord('sys_user_group');
+	grp.addQuery('name',source.u_support_team);
+	grp.query();
+
+	if(grp.next()){
+		var manS = grp.getValue('manager');
+		var man = new GlideRecord('sys_user');
+		man.addQuery('sys_id',manS);
+		man.query();
+		
+		if(man.next()){
+			source.u_manager = man.name;
+		}
+	}
+}
+
+if(!(source.u_application)){
+	var apps = new GlideRecord('cmdb_ci_business_app');
+	apps.addQuery('it_application_owner', '=', manS);
+	apps.query();
+
+	if(apps.next()){
+		source.u_application = apps.getValue('name');
+	}
+}
+]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 10:14:50</sys_created_on>
+        <sys_id>25f2c1ffdb98a010ae0428df4b9619bc</sys_id>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_transform_script_25f2c1ffdb98a010ae0428df4b9619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 15:55:33</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>

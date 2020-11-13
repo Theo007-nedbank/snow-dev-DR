@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="DROS">7b69b823db10a010ae0428df4b961958</applet_launcher>
+        <icon display_value="Home DROS">7369b823db10a010ae0428df4b96195a</icon>
+        <label>DROS</label>
+        <roles>user</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 14:46:08</sys_created_on>
+        <sys_id>3369b823db10a010ae0428df4b96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DROS</sys_name>
+        <sys_package display_value="DROS" source="x_552094_dros">3fd330ebdbdc6010ae0428df4b961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DROS">3fd330ebdbdc6010ae0428df4b961902</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_3369b823db10a010ae0428df4b96195a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 14:46:08</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
